@@ -1,0 +1,12 @@
+2026-09-17 10:38:28 | INFO     | src.preprocessing | Loaded dataset with 240 rows from /home/claude/project/spam-classifier-toolkit/data/sample_dataset.csv
+2026-09-17 10:38:28 | INFO     | src.preprocessing | Preprocessing complete: 180 train rows, 60 test rows, 99 features
+2026-09-17 10:38:28 | INFO     | src.model | Training model: naive_bayes
+2026-09-17 10:38:28 | INFO     | src.model | Training model: logistic_regression
+2026-09-17 10:38:28 | INFO     | src.model | Training model: random_forest
+2026-09-17 10:38:28 | INFO     | src.evaluate | Evaluated naive_bayes -> accuracy=1.0000, f1=1.0000
+2026-09-17 10:38:28 | INFO     | src.evaluate | Evaluated logistic_regression -> accuracy=1.0000, f1=1.0000
+2026-09-17 10:38:28 | INFO     | src.evaluate | Evaluated random_forest -> accuracy=1.0000, f1=1.0000
+2026-09-17 10:38:28 | INFO     | src.evaluate | Saved evaluation report to /home/claude/project/spam-classifier-toolkit/reports/evaluation_20260917_103828.json
+2026-09-17 10:38:31 | INFO     | src.preprocessing | Preprocessing complete: 30 train rows, 10 test rows, 6 features
+2026-09-17 10:38:31 | INFO     | src.preprocessing | Preprocessing complete: 30 train rows, 10 test rows, 6 features
+2026-09-17 10:38:31 | INFO     | src.model | Training model: naive_bayes
