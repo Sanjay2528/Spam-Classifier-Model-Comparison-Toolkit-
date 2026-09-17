@@ -113,4 +113,12 @@ exceptions for invalid input).
 
 ### Model Training & Evaluation
 <img width="1620" height="900" alt="architecture" src="https://github.com/user-attachments/assets/c8df9818-071e-42ee-9575-3a93e6157ed1" />
+<img width="1620" height="936" alt="class_diagram" src="https://github.com/user-attachments/assets/265482c4-4d53-4d6f-86e2-960c84973275" />
+<img width="1620" height="990" alt="sequence" src="https://github.com/user-attachments/assets/fc8ee1ed-440b-47ac-8ab3-21a381d6a8a0" />
+<img width="1260" height="900" alt="usecase" src="https://github.com/user-attachments/assets/fa6dd54b-c0d4-4538-8390-572509dc5aaa" />
+<img width="1620" height="576" alt="workflow" src="https://github.com/user-attachments/assets/64945bdc-c574-460b-a40b-70651bec5209" />
+
+
+
+
 
