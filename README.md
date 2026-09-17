@@ -108,3 +108,9 @@ exceptions for invalid input).
   with no external downloads. For more realistic results, swap in a larger
   public dataset (e.g. the UCI SMS Spam Collection) using the same two
   columns.
+
+  ## Screenshots
+
+### Model Training & Evaluation
+<img width="1620" height="900" alt="architecture" src="https://github.com/user-attachments/assets/c8df9818-071e-42ee-9575-3a93e6157ed1" />
+
