@@ -54,8 +54,8 @@ spam-classifier-toolkit/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/{github-username}/{repo-name}
-   cd spam-classifier-toolkit
+   git clone https://github.com/Sanjay2528/Spam-Classifier-Model-Comparison-Toolkit-.git
+   cd Spam-Classifier-Model-Comparison-Toolkit-
    ```
 
 2. **Create a virtual environment (recommended)**
